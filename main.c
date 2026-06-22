@@ -1,7 +1,6 @@
 #include "a.h"
 
-int main(int argc, char const *argv[])
-{
+int main(int argc, char const *argv[]) {
     a();
     return 0;
 }
